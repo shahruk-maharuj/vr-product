@@ -1,1 +1,1 @@
-# vr-product
+# custom-woocommerce-product-variation
